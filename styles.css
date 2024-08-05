@@ -1,5 +1,5 @@
-/* Alexander Patterson Responsive Web Development CSS Assignment*/
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* Alexander Patterson Responsive Web Development CSS Assignment
+ http://meyerweb.com/eric/tools/css/reset/ 
     v2.0 | 20110126
     License: none (public domain)
 */
@@ -744,8 +744,7 @@ img {
         visibility: visible;
     }
     #menu-toggle ul li a:hover, #menu-toggle ul li a:focus {
-        background-color: var(--yellow);
-    }
+    background-color: var(--yellow);
     text-align: left;
 }
 #contact {
@@ -1149,4 +1148,4 @@ select {
     #testimonials section q {
         padding: 3rem;
     }
-}
+  }
